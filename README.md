@@ -8,6 +8,8 @@
 
 ## Deploy
 
+> 干脆直接新建一个 Cloudflare Workers 然后把 `src/index.js` 的内容贴到 Cloudflare Workers，然后加入环境变量部份内容再部署。
+
 1. click the "Deploy With Workers" button
 2. follow the instructions to fork and deploy
 3. update routes as you requirement
